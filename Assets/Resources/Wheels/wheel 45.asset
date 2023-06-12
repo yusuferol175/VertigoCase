@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4123ca94b1514640b0c8a99726408de3, type: 3}
+  m_Name: wheel 45
+  m_EditorClassIdentifier: 
+  _zoneType: 1
+  _levelID: 45
+  _slices:
+  - _collectable: {fileID: 11400000, guid: 006c1f93102a59c4680eb8b771f29d5a, type: 2}
+    _collectableCount: 1
+  - _collectable: {fileID: 11400000, guid: 46ffb591592862d4eb161e5b8ead5c0f, type: 2}
+    _collectableCount: 10
+  - _collectable: {fileID: 11400000, guid: 9b22d7a026a2c9948af5d1dfe1d0af5e, type: 2}
+    _collectableCount: 4
+  - _collectable: {fileID: 11400000, guid: 7d79a17efc055f94cb3b5877b8dee55f, type: 2}
+    _collectableCount: 5
+  - _collectable: {fileID: 11400000, guid: a73eeff39f135784db7fdcae51e3e791, type: 2}
+    _collectableCount: 23
+  - _collectable: {fileID: 11400000, guid: 0f46ab241d09a824fbc4b385ea4510de, type: 2}
+    _collectableCount: 1
+  - _collectable: {fileID: 11400000, guid: e7ce5b083502d4249afd17d446cb3cd1, type: 2}
+    _collectableCount: 3
+  - _collectable: {fileID: 11400000, guid: 3f38739ff1b15e141a6c2204ecc553e5, type: 2}
+    _collectableCount: 17

@@ -1,0 +1,40 @@
+namespace DefaultNamespace
+{
+    public enum CollectableType
+    {
+        AviatorGlassesEaster,
+        BaseballCapEaster,
+        Cash,
+        ChestBig,
+        ChestBronze,
+        ChestGold,
+        ChestSilver,
+        ChestSmall,
+        ChestStandart,
+        ChestSuper,
+        Gold,
+        HelmetPumkin,
+        MleBayonetEasterTime,
+        MleBayonetSummerVice,
+        GrenadeM26,
+        GrenadeM67,
+        HealthshotNeurostim,
+        HealthshotRegenerator,
+        Molotov,
+        Tier1Shotgun,
+        Tier2Mle,
+        Tier2Rifle,
+        Tier3Shotgun,
+        Tier3Smg,
+        Tier3Sniper,
+        ArmorPoints,
+        KnifePoints,
+        PistolPoints,
+        RiflePoints,
+        ShotgunPoints,
+        SmgPoints,
+        SniperPoints,
+        SubmachinePoints,
+        VestPoints
+    }
+}
